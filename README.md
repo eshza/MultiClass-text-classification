@@ -3,7 +3,7 @@
 ## Problem Statement
 Machine Learning algorithms in Natural Language Processing (NLP) are widely used in the Health Care and Life Sciences domain to extract information from unstructured text data. One application of NLP in healthcare is automated document classification. Several methods such as term frequency-inverse document frequency (TF-IDF), LDA Topic Modeling, Keyword Extraction, Convolutional Neural Networks have been proposed to tackle text classification for clinical documents. I will be exploring 2 different approaches to classify medical notes into clincal domains. 
 
-## Data Exploration 
+## Data
 
 I will be using the medical transcriptions dataset from kaggle: https://www.kaggle.com/tboyle10/medicaltranscriptions 
 
